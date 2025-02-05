@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is Nicole.</h2>
 
 🎓 Studying Information Systems at the University of Melbourne
+
 💻 Front-End Engineer at BlotzTask
+
 🎮 Game Metrics Designer at Education Network Group
 
 ###
