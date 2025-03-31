@@ -4,8 +4,6 @@
 
 💻 Front-End Engineer at BlotzTask
 
-🎮 Game Developer at Education Network Group
-
 ###
 🛠️ Tech Stack
 <div align="left">
