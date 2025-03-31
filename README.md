@@ -4,7 +4,7 @@
 
 💻 Front-End Engineer at BlotzTask
 
-🎮 Game Metrics Designer at Education Network Group
+🎮 Game Developer at Education Network Group
 
 ###
 🛠️ Tech Stack
