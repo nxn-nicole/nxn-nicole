@@ -2,7 +2,7 @@
 
 🎓 Studying Information Systems at the University of Melbourne
 
-💻 Front-End Engineer at BlotzTask
+💻 Full Stack Engineer at BlotzTask
 
 ###
 🛠️ Tech Stack
